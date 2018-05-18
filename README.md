@@ -1,5 +1,5 @@
 Dilbert SOAP WS Client
-######################
+----------------------
 
 On a Linux terminal
 --------------------
